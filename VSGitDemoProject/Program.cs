@@ -10,7 +10,7 @@ namespace VSGitDemoProject
             int b = 2;
             int c = 3;
             int d = 4;
-            int e = 7;
+            int e = 8;
 
             Console.WriteLine("Hello World!");
         }
