@@ -6,6 +6,8 @@ namespace VSGitDemoProject
     {
         static void Main(string[] args)
         {
+            int a = 1;
+
             Console.WriteLine("Hello World!");
         }
     }
